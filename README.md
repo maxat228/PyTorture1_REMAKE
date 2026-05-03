@@ -22,6 +22,7 @@ PyTorture1_REMAKE/
 │ ├── __init__.py
 │ └── test_sources.py # Тесты
 ├── tasks.txt # Файл с задачами для FileSource
+├── .gitignore
 └── README.md
 ```
 
